@@ -1,0 +1,2 @@
+Ejemplo_valido_1.txt
+(p \/ q) /\ ~r -> s
