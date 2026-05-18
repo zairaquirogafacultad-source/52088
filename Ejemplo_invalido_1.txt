@@ -1,0 +1,2 @@
+Ejemplo_invalido_3.txt
+(p \/ q
