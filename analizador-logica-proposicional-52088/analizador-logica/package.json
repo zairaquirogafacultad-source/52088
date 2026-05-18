@@ -1,0 +1,17 @@
+{
+  "name": "analizador-logica-proposicional",
+  "version": "1.0.0",
+  "description": "Analizador de fórmulas de Lógica Proposicional con ANTLR4 y JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Sin test configurado\" && exit 0"
+  },
+  "keywords": ["antlr4", "logica", "proposicional", "parser"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
